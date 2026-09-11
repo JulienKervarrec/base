@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours technique en français sur le noeud Base, la dérivation OP Stack et les fault proofs est disponible dans [`docs/fr/`](docs/fr/).
+
 ![Base](docs/assets/logo.png)
 
 # Base
